@@ -63,7 +63,7 @@ module demorgan_test ();
 
     $display("");
     $display("~(A*B)");
-    $display("A B | A + B | ~(A*B) ");          
+    $display("A B | A * B | ~(A*B) ");          
     G=0;H=0; #1                                 
     $display("%b %b |   %b   |    %b  ", G,H, GandH, nGandH);
     G=0;H=1; #1                                 
