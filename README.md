@@ -1,5 +1,6 @@
 # HW 0b001: Verilog Tools and DeMorgan's Law
 
+
 *Due: Friday, September 14*
 
 ## Install tools
